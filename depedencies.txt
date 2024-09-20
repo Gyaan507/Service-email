@@ -1,0 +1,5 @@
+fastapi
+sendgrid
+uvicorn
+pydantic[setteings]
+pydantic
