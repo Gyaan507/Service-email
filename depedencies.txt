@@ -1,5 +1,6 @@
 fastapi
 sendgrid
 uvicorn
-pydantic[setteings]
+pydantic[settings]
 pydantic
+python-multipart
